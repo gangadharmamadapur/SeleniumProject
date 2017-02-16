@@ -1,0 +1,16 @@
+com.hrm.scripts.DeleteEmployee 2017-02-13 15:48:33,682 com.hrm.base.BaseTest.initReport(BaseTest.java:53) initializing ExtentReport 
+com.hrm.scripts.DeleteEmployee 2017-02-13 15:48:34,213 com.hrm.base.BaseTest.initGlobalVar(BaseTest.java:68) initialize Global variables 
+com.hrm.scripts.DeleteEmployee 2017-02-13 15:52:47,297 com.hrm.base.BaseTest.initReport(BaseTest.java:53) initializing ExtentReport 
+com.hrm.scripts.DeleteEmployee 2017-02-13 15:52:47,428 com.hrm.base.BaseTest.initGlobalVar(BaseTest.java:68) initialize Global variables 
+com.hrm.scripts.CreateEmployee 2017-02-13 15:57:44,733 com.hrm.base.BaseTest.initReport(BaseTest.java:55) initializing ExtentReport 
+com.hrm.scripts.CreateEmployee 2017-02-13 15:57:44,848 com.hrm.base.BaseTest.initGlobalVar(BaseTest.java:70) initialize Global variables 
+com.hrm.scripts.CreateEmployee 2017-02-13 15:57:44,864 com.hrm.base.BaseTest.initApplication(BaseTest.java:81) Opening Browser:chrome 
+com.hrm.scripts.CreateEmployee 2017-02-13 16:37:47,018 com.hrm.base.BaseTest.initReport(BaseTest.java:55) initializing ExtentReport 
+com.hrm.scripts.CreateEmployee 2017-02-13 16:37:47,164 com.hrm.base.BaseTest.initGlobalVar(BaseTest.java:70) initialize Global variables 
+com.hrm.scripts.CreateEmployee 2017-02-13 16:37:47,180 com.hrm.base.BaseTest.initApplication(BaseTest.java:81) Opening Browser:chrome 
+com.hrm.scripts.CreateEmployee 2017-02-13 16:39:43,466 com.hrm.base.BaseTest.initReport(BaseTest.java:55) initializing ExtentReport 
+com.hrm.scripts.CreateEmployee 2017-02-13 16:39:43,586 com.hrm.base.BaseTest.initGlobalVar(BaseTest.java:70) initialize Global variables 
+com.hrm.scripts.CreateEmployee 2017-02-13 16:39:43,603 com.hrm.base.BaseTest.initApplication(BaseTest.java:81) Opening Browser:chrome 
+com.hrm.scripts.CreateEmployee 2017-02-14 21:18:26,475 com.hrm.base.BaseTest.initReport(BaseTest.java:55) initializing ExtentReport 
+com.hrm.scripts.CreateEmployee 2017-02-14 21:18:26,595 com.hrm.base.BaseTest.initGlobalVar(BaseTest.java:70) initialize Global variables 
+com.hrm.scripts.CreateEmployee 2017-02-14 21:18:26,597 com.hrm.base.BaseTest.initApplication(BaseTest.java:81) Opening Browser:chrome 
